@@ -101,7 +101,3 @@ The server returns the rendered `home.html` containing the `prediction_text` wit
 
 ---
 
-If you want, I can also:
-- Add a simple README badge and usage screenshots.
-- Add a small `run.sh`/`run.ps1` helper to activate the venv and start the app.
-- Add unit tests for the input parsing and prediction route.
